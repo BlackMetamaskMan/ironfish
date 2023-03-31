@@ -7,4 +7,12 @@
 
 2，安装ironfish：
     sudo npm install -g ironfish
-2，
+
+3，按照提示，创建钱包：
+      ironfish wallet:create
+   查看当前钱包public address：
+      ironfish wallet:address
+   备份钱包：
+      ironfish wallet:export --mnemonic
+
+4，输入账户地址登陆铁鱼，去邮箱，收邮件，在邮件的连接中登陆。进去填写public address，kyc认证。

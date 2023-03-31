@@ -1,0 +1,10 @@
+钱包准备
+1，安装nodejs 18
+    curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+    node -v
+    npm -v
+
+2，安装ironfish：
+    sudo npm install -g ironfish
+2，

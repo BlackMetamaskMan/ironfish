@@ -75,9 +75,3 @@ class IronfishApi:
 
         return r
 
-if __name__=='__main__':
-
-    iApi=IronfishApi()
-    r=iApi.register('volutes.cues_xx0l@icloud.com')
-    print(r)
-    # iApi.register('corms_fervent0c@icloud.com')

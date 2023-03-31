@@ -25,9 +25,3 @@ class RegisterClient:
 
         return result
 
-# if __name__=='__main__':
-#
-#     iApi=IronfishApi()
-#     r=iApi.register('volutes.cues_0l@icloud.com')
-#     print(r)
-#     # iApi.register('corms_fervent0c@icloud.com')

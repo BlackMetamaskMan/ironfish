@@ -13,6 +13,11 @@
    查看当前钱包public address：
       ironfish wallet:address
    备份钱包：
-      ironfish wallet:export --mnemonic
+      ironfish wallet:export 你的账号名字 --mnemonic
 
 4，输入账户地址登陆铁鱼，去邮箱，收邮件，在邮件的连接中登陆。进去填写public address，kyc认证。
+
+
+
+其他：
+    向水龙头要币：ironfish faucet

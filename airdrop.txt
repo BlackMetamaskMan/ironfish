@@ -21,3 +21,5 @@
 
 其他：
     向水龙头要币：ironfish faucet
+    如果一个机器上有多个账号，怎么切换默认账号到abaadad呢？
+        ironfish wallet:use abaadad
